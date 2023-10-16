@@ -2,7 +2,6 @@
 I am a passionate backend developer with a strong focus on creating efficient, scalable, and secure solutions for various applications.Also, I'm committed to expanding my knowledge and staying updated with the latest trends and technologies in backend development.
 
 [![](https://visitcount.itsvg.in/api?id=KumaKode&icon=0&color=12)](https://visitcount.itsvg.in)
---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-quim-b149ab254) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Kuma_Kode) 
