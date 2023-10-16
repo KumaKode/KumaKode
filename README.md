@@ -1,5 +1,6 @@
 # 💫 About Me:
 I am a passionate backend developer with a strong focus on creating efficient, scalable, and secure solutions for various applications.Also, I'm committed to expanding my knowledge and staying updated with the latest trends and technologies in backend development.
+
 [![](https://visitcount.itsvg.in/api?id=KumaKode&icon=0&color=12)](https://visitcount.itsvg.in)
 --
 
